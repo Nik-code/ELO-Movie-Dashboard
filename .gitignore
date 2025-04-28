@@ -1,0 +1,14 @@
+# User-specific data files
+data/
+# Allow template files (e.g., data/movies_template.csv) - uncomment if you add templates
+# !data/*_template.csv
+
+# Python cache, virtual environment, and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*~
+.venv/
+venv/
+ENV/
+env/
